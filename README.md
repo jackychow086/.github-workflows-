@@ -8,7 +8,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700&display=swap');
-        body { font-family: 'Noto Sans TC', sans-serif; background-color: #f8fafc; color: #1e293b; scroll-behavior: smooth; }
+        body { font-family: 'Noto Sans TC', sans-serif; background-color: #f8fafc; color: #1e293b; scroll-behavior: smooth; margin: 0; padding: 0; }
         .hero-bg { background: linear-gradient(135deg, #0f172a 0%, #1e40af 100%); position: relative; overflow: hidden; }
         .data-card { background: white; border-radius: 16px; border: 1px solid #e2e8f0; transition: all 0.3s ease; }
         .data-card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px -10px rgba(0,0,0,0.1); border-color: #3b82f6; }
@@ -49,7 +49,7 @@
         <h2 class="text-3xl font-bold mb-6">為什麼是現在？為什麼是液態氫？</h2>
         <p class="text-lg text-slate-600 leading-relaxed">
             對於實際航程需求，電池過重，氣態氫體積則過於龐大。<br>
-            對於 eVTOL，僅需 <span class="highlight">數十公斤液態氫 (LH2)</span> 即可達成所需的續航時間與任務目標。
+            對於 eVTOL，僅需數十公斤液態氫 (LH2) 即可達成所需的續航時間與任務目標。
         </p>
     </section>
 
