@@ -48,8 +48,7 @@
     <section class="py-20 px-6 max-w-4xl mx-auto text-center reveal">
         <h2 class="text-3xl font-bold mb-6">為什麼是現在？為什麼是液態氫？</h2>
         <p class="text-lg text-slate-600 leading-relaxed">
-            對於實際航程需求，電池過重，氣態氫體積則過於龐大。<br>
-            對於 eVTOL，僅需數十公斤液態氫（LH2）即可達成所需的續航時間與任務目標。
+            對於實際航程需求，電池過重，氣態氫體積則過於龐大。對於 eVTOL 而言，僅需數十公斤液態氫（LH2）即可達成所需的續航時間與任務目標。
         </p>
     </section>
 
